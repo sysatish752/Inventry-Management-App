@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Inventory Manager",
+  "description": "A comprehensive inventory management application to track products, customers, and sales. Features a dashboard with sales analytics, invoice generation, and detailed inventory and customer management modules.",
+  "requestFramePermissions": []
+}
